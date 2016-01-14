@@ -10,5 +10,11 @@
     "name": "TryMeForDie",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4ca7cdb3-f356-30f2-a2b2-8940df50889d",
+    "name": "reinier",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
